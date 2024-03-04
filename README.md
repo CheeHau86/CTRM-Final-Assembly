@@ -6,6 +6,7 @@ Steps to run this project:
 3. Print out the AR marker from the folder "CTRM Final Assembly\Assets\Editor\Vuforia\ImageTargetTextures\ARFLP2".
 
 For LPT/SPT/TCT optimization simulation. we need to open a scene named "_ARFLP2-Layup" found in folder "CTRM Final Assembly\Assets" if the scene in step 2 is not opened.
+
 4. Connect a webcam to the laptop, run the Unity Editor. AR scene will start.
 5. Scan the AR marker with webcam, a green wireframe place will appear.
 6. In the hierarchy tab of the Unity, the Cube, Cube (1) and Cylinder are used to represent any obstacle found. These shape can be activated, duplicated, resized, relocated and reoriented based on the real scenario.
