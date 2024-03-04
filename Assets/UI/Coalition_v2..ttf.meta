@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 765438be66302414d9323f753ed3b2c8
+timeCreated: 1490601343
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coalition
+  fontNames:
+  - Coalition
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a59af0bbc3cb301489b3b5f206d4b7a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

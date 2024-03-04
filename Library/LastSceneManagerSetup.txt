@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_ARFLP2-Layup.unity
+  isLoaded: 1
+  isActive: 1
