@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_ARFLP2-Layup.unity
+- path: Assets/_ARFLP2-CG.unity
   isLoaded: 1
   isActive: 1
